@@ -5,6 +5,9 @@ html,body{
     height: 1000px;
     width: 1500px;
 }
+.text-center{
+    color: rgb(247, 227, 203);
+}
 .button{
     font-size: 24px;
     background-color: beige;
